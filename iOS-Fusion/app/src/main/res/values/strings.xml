@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">ADG Events</string>
+    <string name="title_home"></string>
+    <string name="title_notifications"></string>
+    <string name="title_dashboard"></string>
+
+    <string name="adg">APPLE DEVELOPERS GROUP</string>
+
+    <string name="par">Participants</string>
+    <string name="eName">Enter Your Name</string>
+    <string name="reg">Enter Your Registration Number</string>
+    <string name="LoginNameHint">Name</string>
+    <string name="LoginHintRegno">Registration Number</string>
+
+    <string name="AboutEventHeader">About Event</string>
+    <string name="AboutEventSpeaker">Speaker</string>
+    <string name="AboutEventBody">About Event</string>
+    <string name="speakername1">Tushar Singh</string>
+    <string name="speakerdesc1">a</string>
+    <string name="speakercont1">Tushar Singh, an impeccable speaker for iOS Fusion is skilled in deep learning, full stack iOS development (Node.js), Information security, worked on the election app for Tamil Nadu govt. He was also a speaker at BMS Ramaiya College.</string>
+    <string name="speakername2">Sarvad Shetty</string>
+    <string name="speakerdesc2">b</string>
+    <string name="speakercont2">Sarvad Shetty, speaker for iOS Fusion is skilled in full stack iOS development. He has done a commendable job on election application for Tamil Nadu govt. as well as Tap VIT app for iOS. He also had campus interaction for iOS.
+Being a speaker at BMS Ramaiya College was a feather in his cap.</string>
+    <string name="abouteventcont"> iOS Fusion is a premium workshop conducted by Apple Developers Group, VIT. It has been conducted for past three years in graVITas, an International Technical Fest organised by VIT Vellore. Participants in our workshop are taught to create apps for iOS devices. Participants are provided with all the necessary softwares required to build beautiful apps. It\'s  a great opportunity for the beginners as it gives them a chance to experience what it takes to be an iOS Developer. A plethora of topics will be taught and an overall insight about development process will be provided.Just like boost is the secret of our energy, this workshop too is the secret of not one, not two,not three but many tricks and tips to develop great apps for iOS devices. Our workshop provides you a platform to learn, develop and master amazing things. Join us to experience the life of a developer this graVITas.</string>
+
+    <string name="event_timeline">Event Timeline</string>
+    <string name="timeline">Timeline</string>
+    <string name="t1">4:30</string>
+    <string name="t2">7:30</string>
+    <string name="t3">8:00</string>
+    <string name="t4">9:00</string>
+    <string name="pm">pm</string>
+    
+    <string name="day_1">Day-1</string>
+    <string name="tit1_d1">Introduction to Swift and Xcode</string>
+    <string name="desc1_d1">Attendance till 4pm</string>
+    <string name="tit2_d1">Dinner</string>
+    <string name="desc2_d1">Attendance till 4pm</string>
+    <string name="tit3_d1">8 Ball App</string>
+    <string name="desc3_d1">Attendance till 4pm</string>
+    <string name="tit4_d1">Dice App</string>
+    <string name="desc4_d1">Attendance till 4pm</string>
+
+    <string name="day_2">Day-2</string>
+    <string name="tit1_d2">Flash chat</string>
+    <string name="desc1_d2">Attendance till 4pm</string>
+    <string name="tit2_d2">Dinner</string>
+    <string name="desc2_d2">Attendance till 4pm</string>
+    <string name="tit3_d2">Flash chat continue</string>
+    <string name="desc3_d2">Attendance till 4pm</string>
+    <string name="tit4_d2">To-do App</string>
+    <string name="desc4_d2">Attendance till 4pm</string>
+
+    <string name="Profile">Profile</string>
+    <string name="Participant">PARTICIPANT</string>
+    <string name="Event">Event</string>
+    <string name="Venue">Venue</string>
+    <string name="IoSF">IOS FUSION</string>
+    <string name="TTG">TT Gallery-2</string>
+    <string name="AboutUs">About Us</string>
+    <string name="ADG">Apple Developers Group</string>
+    <string name="VV">VIT VELLORE</string>
+    <string name="audesc">Apple Developers Group (ADG) is a name synonymous with excellence, simplicity and dedication. It is a registered student community at VIT, Vellore established under the Apple University program. A coterie of talented minds seeking not just success but perfection. The mentors and the members here, join hands in successfully pulling off a hack-a-thon such as Hackgrid and engaging workshops like iOS Fusion and Unidev. Hackgrid encourages young developers to come up with scintillating technical solutions to real world problems. iOS Fusion aims at giving a hands on experience of iOS app development to all the tech enthusiasts whereas Unidev takes future developers into realm of augmented reality</string>
+    <string name="OurApps">Our Apps</string>
+    <string name="OurEvents">Our Events</string>
+    <string name="Iosf">Ios Fusion</string>
+    <string name="unidev">Unidev</string>
+    <string name="hackgrid">Hackgrid</string>
+    <string name="desc">description</string>
+    <string name="todo">TODO</string>
+    <string name="pp">Privacy Policy</string>
+    <string name="link">
+        <a href="https://adg-vit.github.io/privacy-policy.github.io/">Privacy Policy</a>
+    </string>
+</resources>
